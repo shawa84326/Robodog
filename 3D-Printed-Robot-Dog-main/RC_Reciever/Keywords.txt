@@ -1,0 +1,6 @@
+#Data types
+RC_Reciever	KEYWORD1
+
+#Methods and Functions
+getChannel	KEYWORD2
+

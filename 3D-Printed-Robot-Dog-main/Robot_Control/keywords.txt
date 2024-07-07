@@ -1,0 +1,17 @@
+#Data types
+Robot	KEYWORD1
+Robot_Control	KEYWORD1
+
+#Methods and Functions
+calibrate	KEYWORD2
+setSpeed	KEYWORD2
+moveServos	KEYWORD2
+
+
+#Constants
+NR	LITERAL1
+
+
+
+
+
